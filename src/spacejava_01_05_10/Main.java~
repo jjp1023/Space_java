@@ -166,7 +166,6 @@ private static char checkIfAtMoonMenu(Ship s, Planet jupiter, Planet earth, Plan
 
 	   System.out.println("You have Rice - " + s.getRice() + " Iron - " + s.getIron() + " Sugar - " + s.getSugar() + "\n");
 	   System.out.println("SpaceBucks - " + s.getFunds() + " Fuel - " + s.getFuel() + " Cargo Max - " + s.getCARGO_MAX() + "\n");
-System.out.println("Hello Jigar! Good job! Now make your next move!!!");
        System.out.println("What do you want to do?");
 
 //http://download.oracle.com/javase/6/docs/api/java/util/Scanner.html
